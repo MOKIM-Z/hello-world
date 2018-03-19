@@ -1,2 +1,3 @@
 # hello-world
-just another repository
+hi guys!
+it is funny,i want to learn node.js vue.js webpackect
